@@ -1,0 +1,16 @@
+- hotel: Tipo de hotel (urbano o resort).
+- is_canceled: Indica si la reserva fue cancelada o no.
+- lead_time: Días entre la fecha de reserva y la fecha de llegada.
+- arrival_date_year, arrival_date_month, arrival_date_week_number, arrival_date_day_of_month: Detalles sobre la fecha de llegada.
+- stays_in_weekend_nights, stays_in_week_nights: Número de noches de estancia en fin de semana y entre semana.
+- adults, children, babies: Número de huéspedes por reserva.
+- meal: Tipo de plan de comidas elegido.
+- country: País de origen del huésped.
+- market_segment: Segmento de mercado al que pertenece la reserva.
+- reserved_room_type, assigned_room_type: Tipo de habitación reservada y tipo de habitación asignada.
+- deposit_type: Tipo de depósito realizado.
+- customer_type: Clasificación del cliente (transitorio, grupo, etc.).
+- required_car_parking_spaces: Número de espacios de estacionamiento solicitados.
+- total_of_special_requests: Número total de solicitudes especiales realizadas por el huésped.
+
+
